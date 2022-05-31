@@ -4,3 +4,5 @@ Stack:
     Python
     Flask
     Bootstrap
+    HTML
+    CSS

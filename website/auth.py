@@ -31,6 +31,4 @@ def sign_up():
             flash('Account Created!', category='success')
             #add new user
 
-
-
     return render_template("sign_up.html") 

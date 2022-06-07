@@ -4,5 +4,6 @@ Stack:
     Python
     Flask
     Bootstrap
+    SQLAlchemy
     HTML
     CSS
